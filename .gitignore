@@ -1,9 +1,2 @@
-﻿# Dataset
-dataset/
-*.csv
-
-# Python checkpoints & cache
-__pycache__/
-.ipynb_checkpoints/
-*.pyc
+﻿# Python checkpoints & cache
 .env
